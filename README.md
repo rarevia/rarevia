@@ -2,8 +2,10 @@
 
 🏛️ Build beauty
 
-> Slow methodical\\
-> Thoughtful purposeful structure\\
+> Slow methodical
+> 
+> Thoughtful purposeful structure
+> 
 > Creating for others
 
 ## Professional interests
