@@ -4,7 +4,7 @@
 
 > Slow methodical
 > 
-> Thoughtful purposeful structure
+> Thoughtful structure
 > 
 > Creating for others
 
@@ -23,8 +23,8 @@
 ### Haiku
 Concise, syllabic pattern: 5-7-5 syllables (3 lines)
 > Slow methodical
-> Thoughtful purposeful structure
-> Creating for others
+> Thoughtful, purposeful structure
+> Develop for others
 
 ### Tanka
 The longer relative of the haiku, the tanaka (5-7-5-7-7 syllables), emotional depth
